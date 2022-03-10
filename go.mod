@@ -1,4 +1,4 @@
-module github.com/prometheus/client_model
+module github.com/flyingtang/client_model
 
 go 1.9
 
